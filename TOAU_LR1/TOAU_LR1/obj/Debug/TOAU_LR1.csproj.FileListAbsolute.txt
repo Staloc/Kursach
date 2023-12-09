@@ -1,0 +1,31 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\bin\Debug\TOAU_LR1.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\bin\Debug\TOAU_LR1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\bin\Debug\TOAU_LR1.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.FormResult.resources
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\bin\Debug\TOAU_LR1.exe.config
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.exe
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.pdb
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\bin\Debug\TOAU_LR1.exe
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\bin\Debug\TOAU_LR1.pdb
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.Form1.resources
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.FormResult.resources
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.csproj.GenerateResource.Cache
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\bin\Debug\TOAU_LR1.exe.config
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\bin\Debug\TOAU_LR1.exe
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\bin\Debug\TOAU_LR1.pdb
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.Form1.resources
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.FormResult.resources
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.Properties.Resources.resources
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.exe
+C:\Users\Vlad\Desktop\VTP_Program\TOAU_LR1\TOAU_LR1\obj\Debug\TOAU_LR1.pdb
